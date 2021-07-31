@@ -1,38 +1,39 @@
-.App {
-  text-align: center;
+.main-heading{
+  color:whitesmoke;
+  font-size:26px;
+  font-family: 'PT Sans Narrow', sans-serif;
+  font-weight: lighter;
+  margin-left: 300px;
+  margin-right: 300px;
+  margin-bottom: 30px;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.underline {
+  height: 05px;
+  width: 18rem;
+  background-color:#fee440;
+  margin-top:  10px;
+  margin-bottom:40px;
+  margin-left: 650px;
+  margin-right: 100px;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.para{
+  color: #fee440;
+  font-family: 'PT Sans Narrow', sans-serif;
+  margin-left: 100px;
+  margin-right: 100px;
+  font-size: 26px;
+  margin-bottom: 80px;
+  font-weight: lighter;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.outcome{
+   color: #fee440;
+   margin-left: 230px;
+   margin-bottom: 40px;
+   font-family: 'PT Sans Narrow', sans-serif;
+}
+.text{
   color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+  font-family: 'PT Sans Narrow', sans-serif;
+  font-weight: lighter;
+  font-size: 20px;
 }
